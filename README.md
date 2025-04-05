@@ -75,7 +75,7 @@ Results-oriented web developer with strong Python and web technology skills curr
     <p>A machine learning application that predicts heart disease risk with 87% accuracy.</p>
     <p><b>Technologies:</b> Python, Django, Matplotlib, NumPy, Pandas, Scikit-learn</p>
     <p><b>Features:</b> Risk assessment interface, predictive analytics, user-friendly dashboard</p>
-    <p><a href="https://github.com/hayan9104/Heart-Disease-Prediction-System"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"></a></p>
+    
   </div>
 
   <div style="width: 45%; min-width: 300px;">
@@ -83,7 +83,6 @@ Results-oriented web developer with strong Python and web technology skills curr
     <p>A Flask-based solution for efficient inventory tracking and management.</p>
     <p><b>Technologies:</b> Python, Flask, Matplotlib, NumPy, Pandas, JavaScript</p>
     <p><b>Features:</b> Stock alerts, demand forecasting, data visualization dashboard</p>
-    <p><a href="https://github.com/hayan9104/Inventory-Management-System"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"></a></p>
   </div>
 
   <div style="width: 45%; min-width: 300px;">
@@ -91,7 +90,7 @@ Results-oriented web developer with strong Python and web technology skills curr
     <p>A comprehensive web-based platform for pharmacy operations.</p>
     <p><b>Technologies:</b> HTML, CSS, JavaScript, Django, MySQL</p>
     <p><b>Features:</b> Medicine inventory management, user authentication, order processing</p>
-    <p><a href="https://github.com/hayan9104/Pharmacy-Management-System"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"></a></p>
+   
   </div>
 
   <div style="width: 45%; min-width: 300px;">
@@ -99,7 +98,7 @@ Results-oriented web developer with strong Python and web technology skills curr
     <p>An application for planning workouts and tracking fitness progress.</p>
     <p><b>Technologies:</b> HTML, CSS, JavaScript, Python, Django</p>
     <p><b>Features:</b> Workout planning, progress tracking, analytics dashboard</p>
-    <p><a href="https://github.com/hayan9104/Fitness-Tracker"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"></a></p>
+   
   </div>
 </div>
 
