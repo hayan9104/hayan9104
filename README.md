@@ -1,9 +1,7 @@
 # <div align="center">👨‍💻 Hayan Patel | Full-Stack Developer</div>
 
-
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/hayanpatel9104/">
+  <a href="https://www.linkedin.com/in/hayan9104/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hayanpatel9104@gmail.com">
@@ -109,8 +107,6 @@ Results-oriented web developer with strong Python and web technology skills curr
 
 ## <div align="center">📜 Certifications</div>
 
-
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="width: 45%; min-width: 300px; border: 1px solid #3498db; border-radius: 10px; padding: 15px; margin: 10px;">
     <h3>Python for Data Science (NPTEL)</h3>
@@ -188,7 +184,7 @@ Results-oriented web developer with strong Python and web technology skills curr
   <a href="mailto:hayanpatel9104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/hayanpatel9104/">
+  <a href="https://www.linkedin.com/in/hayan9104/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="tel:9773142051">
@@ -198,7 +194,6 @@ Results-oriented web developer with strong Python and web technology skills curr
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
